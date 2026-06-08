@@ -1,1 +1,44 @@
-
+1. Python Fundamentals
+Variables
+Data Types
+Input / Output
+Type Casting
+Operators
+2. Control Statements
+if, elif, else
+Nested if
+for loop
+while loop
+break, continue, pass
+3. Data Structures
+Lists
+Tuples
+Sets
+Dictionaries
+4. Functions
+User-defined functions
+Arguments
+Return statement
+Lambda functions
+5. String Handling
+String methods
+Slicing
+Formatting
+6. File Handling
+Read files
+Write files
+CSV files
+7. Exception Handling
+try
+except
+finally
+8. Object-Oriented Programming (Important)
+Class
+Object
+Constructor
+Inheritance
+Polymorphism
+9. Modules & Packages
+import
+from ... import
+pip install
